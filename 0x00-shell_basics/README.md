@@ -17,3 +17,7 @@ in the current directory and the parent of the working directory and the /boot d
 13 - Script creates a symbolic link to /bin/ls, named ls in the current working directory
 14 - Script copies all the HTML files from the current working directory to the parent of the working directory,
 but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+100 - A script that moves all files beginning with an uppercase letter to the directory /tmp/u
+101 - A script that deletes all files in the current working directory that end with the character ~
+102 - A script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+103 - A script that lists all the files and directories of the current directory, separated by commas
