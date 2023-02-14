@@ -1,5 +1,3 @@
-Readme file for Shell init  files, variables and eexpansions
-
 0 - Script creates an alias with name: ls and value: rm *
 01 - Script prints hello user, where user is the current Linux user.
 02 - Script adds /action to the PATH. /action
